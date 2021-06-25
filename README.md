@@ -1,7 +1,7 @@
 # Food-Recognition-And-Calorie-Count
 
 ## Sections 
-+ [Problem Statement](https://github.com/vipul-khatana/Food-Recognition-And-Calorie-Count#problem statement)
++ [Problem Statement](https://github.com/vipul-khatana/Food-Recognition-And-Calorie-Count#problemstatement)
 + [Objective](https://github.com/vipul-khatana/Food-Recognition#objective)
 + [Technique Employed](https://github.com/vipul-khatana/Food-Recognition#techniques-employed)
 
