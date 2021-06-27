@@ -5,7 +5,7 @@
 + [Objective](https://github.com/vipul-khatana/Food-Recognition-And-Calorie-Count#objective)
 + [Proposed System](https://github.com/vipul-khatana/Food-Recognition-And-Calorie-Count#proposedsystem)
 + [Results](https://github.com/vipul-khatana/Food-Recognition-And-Calorie-Count#results)
-+ [Certificate](https://github.com/vipul-khatana/Food-Recognition-And-Calorie-Count#results)
++ [Certificate](https://github.com/vipul-khatana/Food-Recognition-And-Calorie-Count#certificate)
 
 ## Problem Statement
 To create a food recognition system which helps to keep track of everyday calorie intake based on food recognition and classification to maintain a healthy lifestyle.
@@ -23,6 +23,7 @@ In this project we tackle the problem of recognizing a food item from an image a
 
 ## Certificate
 
+![certificate](https://user-images.githubusercontent.com/60252526/123555560-20cf5880-d7a4-11eb-9b79-21cd78028349.jpg)
 
 
 
