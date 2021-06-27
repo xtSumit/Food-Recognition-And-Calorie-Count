@@ -1,7 +1,7 @@
 # Food-Recognition-And-Calorie-Count
 
 ## Sections 
-+ [Problem Statement](https://github.com/vipul-khatana/Food-Recognition-And-Calorie-Count#problemstatement)
++ [Problem Statement](https://github.com/xtSumit/Food-Recognition-And-Calorie-Count#problemstatement)
 + [Objective](https://github.com/vipul-khatana/Food-Recognition-And-Calorie-Count#objective)
 + [Proposed System](https://github.com/vipul-khatana/Food-Recognition-And-Calorie-Count#proposedsystem)
 + [Results](https://github.com/vipul-khatana/Food-Recognition-And-Calorie-Count#results)
