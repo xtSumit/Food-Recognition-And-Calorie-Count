@@ -2,10 +2,10 @@
 
 ## Sections 
 + [Problem Statement](https://github.com/xtSumit/Food-Recognition-And-Calorie-Count#problemstatement)
-+ [Objective](https://github.com/vipul-khatana/Food-Recognition-And-Calorie-Count#objective)
-+ [Proposed System](https://github.com/vipul-khatana/Food-Recognition-And-Calorie-Count#proposedsystem)
-+ [Results](https://github.com/vipul-khatana/Food-Recognition-And-Calorie-Count#results)
-+ [Certificate](https://github.com/vipul-khatana/Food-Recognition-And-Calorie-Count#certificate)
++ [Objective](https://github.com/xtSumit/Food-Recognition-And-Calorie-Counto#bjective)
++ [Proposed System](https://github.com/xtSumit/Food-Recognition-And-Calorie-Count#proposedsystem)
++ [Results](https://github.com/xtSumit/Food-Recognition-And-Calorie-Count#results)
++ [Certificate](https://github.com/xtSumit/Food-Recognition-And-Calorie-Count#certificate)
 
 ## Problem Statement
 To create a food recognition system which helps to keep track of everyday calorie intake based on food recognition and classification to maintain a healthy lifestyle.
