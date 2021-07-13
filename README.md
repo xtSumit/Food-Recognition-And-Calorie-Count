@@ -18,8 +18,8 @@ In this project we tackle the problem of recognizing a food item from an image a
 ![sys](https://user-images.githubusercontent.com/60252526/123555305-963a2980-d7a2-11eb-9e50-ef8ec5e0425d.jpg)
 
 ## Results
+![res](https://user-images.githubusercontent.com/60252526/125445649-a2dade8b-bb27-49ef-b7cc-09026cc36340.jpg)
 
-![res](https://user-images.githubusercontent.com/60252526/123555352-e4e7c380-d7a2-11eb-8d30-97e88be5385b.jpg)
 
 ## Certificate
 
